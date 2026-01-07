@@ -1,6 +1,8 @@
 # Digital-Supply-Chain-Visibility-Control
 This project delivers an end-to-end Supply Chain Visibility and Control (SCVC) solution designed to support inventory management, delivery performance tracking, and supply planning decision-making.
 The dashboard enables executives, supply planners, and project managers to quickly identify risks, trends, and improvement opportunities across the supply chain.
+<img width="1870" height="813" alt="Screenshot 2026-01-07 223419" src="https://github.com/user-attachments/assets/24d98fd6-6b2a-40a4-ba2b-1547b13d96e3" />
+<img width="1827" height="904" alt="Screenshot 2026-01-07 223430" src="https://github.com/user-attachments/assets/0ef2f081-3e60-4710-875c-76cadf9916ef" />
 
 2. Business Problem
 
